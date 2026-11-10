@@ -1,9 +1,6 @@
 package com.decovinilos.decovinilos_api.service;
 
-import com.decovinilos.decovinilos_api.dto.AuthResponse;
-import com.decovinilos.decovinilos_api.dto.LoginRequest;
-import com.decovinilos.decovinilos_api.dto.RegistroRequest;
-import com.decovinilos.decovinilos_api.dto.UsuarioResponse;
+import com.decovinilos.decovinilos_api.dto.*;
 import com.decovinilos.decovinilos_api.model.Rol;
 import com.decovinilos.decovinilos_api.model.Usuario;
 import com.decovinilos.decovinilos_api.repository.UsuarioRepository;

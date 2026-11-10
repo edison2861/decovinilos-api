@@ -1,12 +1,8 @@
 package com.decovinilos.decovinilos_api.service;
 
-import com.decovinilos.decovinilos_api.dto.CotizacionRequest;
-import com.decovinilos.decovinilos_api.dto.CotizacionResponse;
-import com.decovinilos.decovinilos_api.model.Cotizacion;
-import com.decovinilos.decovinilos_api.model.EstadoCotizacion;
-import com.decovinilos.decovinilos_api.model.Producto;
-import com.decovinilos.decovinilos_api.repository.CotizacionRepository;
-import com.decovinilos.decovinilos_api.repository.ProductoRepository;
+import com.decovinilos.decovinilos_api.dto.*;
+import com.decovinilos.decovinilos_api.model.*;
+import com.decovinilos.decovinilos_api.repository.*;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
